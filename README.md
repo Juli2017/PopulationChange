@@ -1,5 +1,5 @@
-# PopulationChange
-Trends in SMC population
+# Leaving the Silicon Valley
+Trends in Migration for San Mateo and surrounding counties
 link: https://juli2017.github.io/PopulationChange/
 
 # Migration Patterns are Rapidly Changing
