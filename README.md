@@ -18,9 +18,9 @@ While the number of foreign migrants has steadily increased in the past ten year
 * 10 January 2015: <a href="https://techcrunch.com/2015/01/10/east-of-palo-altos-eden/">East Of Palo Alto’s Eden: Race And The Formation Of Silicon Valley</a>
 
 ## 2016
-* 6 December 2016: <a href="http://sf.curbed.com/2016/12/6/13812222/san-francisco-oakland-losing-population">Huge population churn makes San Francisco, Oakland richer</a>
-* 18 November 2016: <a href="https://ww2.kqed.org/news/2016/11/18/mapping-bay-areas-resegregation-what-you-see-may-surprise-you//">Mapping Bay Area’s Resegregation: What You See May Surprise You</a>
 * 20 June 2016: <a href="http://www.mercurynews.com/2016/06/20/californias-skyrocketing-housing-costs-taxes-prompt-exodus-of-residents/">California’s skyrocketing housing costs, taxes prompt exodus of residents </a>
+* 18 November 2016: <a href="https://ww2.kqed.org/news/2016/11/18/mapping-bay-areas-resegregation-what-you-see-may-surprise-you//">Mapping Bay Area’s Resegregation: What You See May Surprise You</a>
+* 6 December 2016: <a href="http://sf.curbed.com/2016/12/6/13812222/san-francisco-oakland-losing-population">Huge population churn makes San Francisco, Oakland richer</a>
 
 ## 2017
 * 31 March 2017: <a href="http://www.mercurynews.com/2017/03/31/readers-weigh-in-on-exodus-of-bay-areas-disgruntled-masses/">Readers weigh in on exodus of Bay Area’s disgruntled masses</a>
