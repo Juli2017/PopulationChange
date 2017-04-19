@@ -1,7 +1,7 @@
 # Leaving the Silicon Valley
 link: https://juli2017.github.io/PopulationChange/  
 
-# Populatin is Changing
+# Population Trends in San Mateo County
 
 <iframe width="943" height="518" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1vNBjvJPA_nMhLP7r3NqaaOjXZZgm3yE9ZHiX1PK4Vk8/edit#gid=0"></iframe>  
 
