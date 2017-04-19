@@ -5,7 +5,7 @@ link: https://juli2017.github.io/PopulationChange/
 
 <iframe width="100%" height="500" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1vNBjvJPA_nMhLP7r3NqaaOjXZZgm3yE9ZHiX1PK4Vk8/pubchart?oid=1742147456&format=interactive"></iframe>  
 
-The total population of San Mateo County has been dynamic between 1990 and 2016.  Key events such as the dot.com bubble bursting around 2002, the housing foreclosure and subsequent recession 2008-2011 fueled changes, particularly in domestic migration.  Natural Increase (Births - Deaths) has been much less dynamic, although births are decreasing.  But during the tech boom there has been a steady increase in total popualtion, with the most significant component of that change being Net Domestic and Foreign Migration.
+The total population of San Mateo County has been dynamic between 1990 and 2016.  Key events such as the dot.com bubble bursting around 2002, the housing foreclosure and subsequent recession 2008-2011 fueled changes, particularly in domestic migration.  Natural Increase (Births - Deaths) has been much less dynamic, although births are decreasing.  But during the tech boom there has been a steady increase in total popualtion, with the most significant component of that change being Net Domestic and Foreign Migration.  Between 2006 and 2016, San Mateo County population grew by 68,724 residents.  For comparison, the county only added a net 19,469 residents between 1996 and 2006.
 # Migration Patterns are Rapidly Changing
 
 <iframe width="943" height="518" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1sYJnsvG2jXPq2vVNgryU9MAoWyyn9WQX8YwKTJH5q2Q/pubchart?oid=1428768914&amp;format=interactive"></iframe>  
