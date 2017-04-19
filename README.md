@@ -5,7 +5,7 @@ link: https://juli2017.github.io/PopulationChange/
 
 <iframe width="943" height="518" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1sYJnsvG2jXPq2vVNgryU9MAoWyyn9WQX8YwKTJH5q2Q/pubchart?oid=1428768914&amp;format=interactive"></iframe>  
 
-While the number of foreign migrants has steadily increased in the past ten years, the aftermath of the housing crisis, increasing income inequality, rising rents, congested traffic and crowding may explain the exodus of domestic residents, with a spike in outgoing domestic migration seen in the latest census figures for 2016, particualrly for Santa Clara County.
+While the number of foreign migrants has steadily increased in the past ten years, the aftermath of the home foreclosure crisis, increasing income inequality, rising rents, congested traffic and crowding may explain the exodus of domestic residents, with a spike in outgoing domestic migration seen in the latest census figures for 2016, particualrly for Santa Clara County.
 
 <iframe width="902" height="558" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1sYJnsvG2jXPq2vVNgryU9MAoWyyn9WQX8YwKTJH5q2Q/pubchart?oid=1536439225&amp;format=interactive"></iframe>  
 
