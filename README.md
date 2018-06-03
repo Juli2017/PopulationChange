@@ -21,6 +21,7 @@ While the number of foreign migrants has steadily increased in the past ten year
 
 ## Newspaper Articles
 ## 2018
+* 3 June 2018: <a href="https://www.mercurynews.com/2018/06/03/nearly-half-of-bay-area-residents-say-they-want-to-leave/">Nearly half of Bay Area residents say they want to leave </a>
 * 5 May 2018: <a href="https://www.sfgate.com/business/networth/article/If-people-are-fleeing-the-Bay-Area-for-cheaper-12889909.php?t=21efee3275&f?">If people are fleeing the Bay Area for cheaper housing, why is it still so costly? </a>
 * 15 February 2018: <a href="https://www.sfgate.com/expensive-san-francisco/article/U-Haul-San-Francisco-Bay-Area-prices-shortage-12617855.php">So many people are leaving the Bay Area, a U-Haul shortage is jacking up prices</a>
 
