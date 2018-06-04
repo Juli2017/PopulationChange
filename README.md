@@ -19,7 +19,7 @@ While the number of foreign migrants has steadily increased in the past ten year
 
 
 
-## Newspaper Articles
+## Articles
 ## 2018
 * 3 June 2018: <a href="https://www.mercurynews.com/2018/06/03/nearly-half-of-bay-area-residents-say-they-want-to-leave/">Nearly half of Bay Area residents say they want to leave </a>
 * 5 May 2018: <a href="https://www.sfgate.com/business/networth/article/If-people-are-fleeing-the-Bay-Area-for-cheaper-12889909.php?t=21efee3275&f?">If people are fleeing the Bay Area for cheaper housing, why is it still so costly? </a>
@@ -30,6 +30,7 @@ While the number of foreign migrants has steadily increased in the past ten year
 
 ## 2016
 * 20 June 2016: <a href="http://www.mercurynews.com/2016/06/20/californias-skyrocketing-housing-costs-taxes-prompt-exodus-of-residents/">California’s skyrocketing housing costs, taxes prompt exodus of residents </a>
+* 29 April 2016: <a href="https://www.democracy.uci.edu/newsevents/events/gradconference16/CSDpaper%20-%20Cervas_Ocampo.pdf">Representation of Non-Eligible Resident Populations in Legislative Bodies</a>
 * 18 November 2016: <a href="https://ww2.kqed.org/news/2016/11/18/mapping-bay-areas-resegregation-what-you-see-may-surprise-you//">Mapping Bay Area’s Resegregation: What You See May Surprise You</a>
 * 6 December 2016: <a href="http://sf.curbed.com/2016/12/6/13812222/san-francisco-oakland-losing-population">Huge population churn makes San Francisco, Oakland richer</a>
 
